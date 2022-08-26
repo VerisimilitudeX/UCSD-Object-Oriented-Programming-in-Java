@@ -1,7 +1,7 @@
 # Object Oriented Programming in Java
 > I learned the principles of Object Oriented Programming, how to harness existing libraries' capabilities, create graphical user interfaces, and  employ essential algorithms for finding and sorting data.
 
-Specifically, I learned how to do the following:
+Specifically, I learned how to do the following in this course:
 1. Author a class in Java and explain how objects are constructed, how they store data, and how to define their actions.
 2. Trace the execution of code using memory-models.
 3. Define the scope of variables and methods.
