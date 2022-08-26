@@ -4,7 +4,8 @@ import de.fhpotsdam.unfolding.providers.MBTilesMapProvider;
 import de.fhpotsdam.unfolding.utils.MapUtils;
 
 /**
- * This example uses a local MBTiles file. Thus, it does not need an Internet connection to load tiles.
+ * This example uses a local MBTiles file. Thus, it does not need an Internet
+ * connection to load tiles.
  */
 public class OfflineMapApp extends PApplet {
 
