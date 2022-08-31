@@ -17,3 +17,6 @@ Specifically, I learned how to do the following in this course:
 11. Use searching and sorting to design algorithms for analyzing data.
 12. Search for an element in a sorted and unsorted list and explain the differences.
 13. Explain multiple sorting techniques and performance tradeoffs.
+
+## Dependencies
+Unfolding Maps: http://unfoldingmaps.org/
